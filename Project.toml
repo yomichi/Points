@@ -1,0 +1,6 @@
+authors = ["Yuichi Motoyama <yomichi@tsg.jp>"]
+name = "Points"
+uuid = "bcc797ba-c614-11e8-3f5f-9798206e0d3e"
+version = "0.1.0"
+
+[deps]
