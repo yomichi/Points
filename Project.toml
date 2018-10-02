@@ -1,6 +1,7 @@
-authors = ["Yuichi Motoyama <yomichi@tsg.jp>"]
 name = "Points"
 uuid = "bcc797ba-c614-11e8-3f5f-9798206e0d3e"
+authors = ["Yuichi Motoyama <yomichi@tsg.jp>"]
 version = "0.1.0"
 
 [deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
